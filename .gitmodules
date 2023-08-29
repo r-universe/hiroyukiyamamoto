@@ -5,3 +5,6 @@
 [submodule "loadings"]
 	path = loadings
 	url = https://github.com/hiroyukiyamamoto/loadings
+[submodule "mseapca"]
+	path = mseapca
+	url = https://github.com/hiroyukiyamamoto/mseapca
